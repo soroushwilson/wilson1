@@ -1,4 +1,4 @@
-local solid = 157059515
+local solid = 140760293
 function run_sh(msg, matches)
      local receiver = get_receiver(msg)
      name = get_name(msg)
