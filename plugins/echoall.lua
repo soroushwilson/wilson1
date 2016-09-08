@@ -18,5 +18,4 @@ return {
   run = run 
 }
 
--- Shared by @BossTGch
--- musicgold.loxblog.com
+-- Shared by soroush_team
