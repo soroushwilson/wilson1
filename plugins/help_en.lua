@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
 	if msg.to.type == 'chat' and is_momod(msg) then
-  return 'Tele Beyond Command List'..[[
+  return 'Tele soroush Command List'..[[
 
 ❤لیست دستورات💙:
 🔴kick [آیدی،یوزر،ریپلی] 
@@ -107,11 +107,9 @@ feedback (متن)
 !kosgo
 استفاده کنید👌😂
 ➖➖➖➖➖➖➖
-Final Version @TeleBeyond
-Team Channel : @BeyondTeam
+Final Version Tele_soroush
 Sudo Users :  👤
-@SoLiD021
-@MrHalix]]
+soroush]]
 end
 end
 return {
