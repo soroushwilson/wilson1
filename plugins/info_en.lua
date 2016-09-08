@@ -1,5 +1,5 @@
 do
-local Arian = 157059515,140529465 --put your id here(BOT OWNER ID)
+local Arian = 140760293 --put your id here(BOT OWNER ID)
 
 local function setrank(msg, name, value) -- setrank function
   local hash = nil
