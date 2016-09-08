@@ -16,7 +16,7 @@ local text = matches[1]
       return nil
       else
   local receiver = get_receiver(msg)
-  local about = 'سلام دوست عزیز❤\n برای دریافت گروه به ایدی @SoLid021 پیام بدید'
+  local about = 'سلام دوست عزیز❤\n برای دریافت گروه به ایدی @xX_Xx_Zendegi_bizaram_azat_Xx_xX پیام بدید'
       return about
 end
 end
