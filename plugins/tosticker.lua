@@ -23,7 +23,7 @@ local function run(msg,matches)
     
       if matches[1]:lower() == "sticker" or "استیکر" and is_momod(msg) then
      redis:get("photo:sticker")  
-    send_large_msg(receiver, 'ساخته شده توسط : @BeyondTeam', ok_cb, false)
+    send_large_msg(receiver, 'ساخته شده توسط : soroush_team', ok_cb, false)
         load_photo(msg.reply_id, tosticker, msg)
     end
 end
