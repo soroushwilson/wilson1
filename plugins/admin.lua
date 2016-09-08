@@ -187,5 +187,5 @@ return {
   },
   run = run,
 }
---By @imandaneshi :)
+--By soroushwilson :)
 --https://github.com/SEEDTEAM/TeleSeed/blob/master/plugins/admin.lua
