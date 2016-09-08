@@ -3,7 +3,7 @@ do
 function run(msg, matches)
  
 	if msg.to.type == 'user' then
-  return 'Tele Bd Team Command List'..[[
+  return 'Tele soroush Team Command List'..[[
 
 ðŸ”˜دستورات پیوی ربات برای اداره کردن گروهðŸ”˜
 
@@ -74,11 +74,9 @@ function run(msg, matches)
 ▶با این دستور ربات شمارو به گروه مورد نظر دعوت میکند
 
 ➖➖➖➖➖➖➖
-Final Version @TeleBeyond
-Team Channel : @BeyondTeam
+Final Version Tele_soroush
 Sudo Users :  ðŸ‘¤
-@SoLiD021
-@MrHalix]]
+soroush]]
 end
 end
 return {
