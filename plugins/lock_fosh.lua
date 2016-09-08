@@ -1,16 +1,19 @@
+
 local function run(msg)
-
+    
     local data = load_data(_config.moderation.data)
+    
+     if data[tostring(msg.to.id)]['settings']['lock_badw'] == 'yes' then
+      
+    
+if not is_momod(msg) then
+    
+    
+chat_del_user('chat#id'..msg.to.id, 'user#id'..msg.from.id, ok_cb, true)
+    local msgads = 'ForbiddenAdText'
+   local receiver = msg.to.id
+    send_large_msg("chat#id".. msg.to.id , "فحش ممنوعه😐✋")
 
-     if data[tostring(msg.to.id)]['settings']['lock_fosh'] == 'yes' then
-
-
-if msg.to.type == 'channel' and not is_momod(msg) then
-	delete_msg(msg.id,ok_cb,false)
-	else
-	kick_user(msg.from.id, msg.to.id)
-
-        return 
       end
    end
 end
