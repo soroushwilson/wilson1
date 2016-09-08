@@ -30,6 +30,6 @@ return {
   run = run
 }
 
--- Maked By @SoLiD021
--- @BeyondTeam
+-- Maked By soroushwilson
+-- soroush_team
 -- Plz Dont Remove My Name And Team :/
