@@ -26,5 +26,6 @@ return {
   patterns = {
     "^!calc (.*)$"
   },
+soroush
   run = run
 }
