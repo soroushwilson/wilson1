@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
 	if msg.to.type == 'chat' then
-  return 'Tele Beyond Fun Command List'..[[
+  return 'Tele soroush Fun Command List'..[[
 
 ❤لیست دستورات💙:
 
@@ -65,11 +65,9 @@ feedback (متن)
 !kosgo
 استفاده کنید👌😂
 ➖➖➖➖➖➖➖
-Final Version @TeleBeyond
-Team Channel : @BeyondTeam
+Final Version Tele_soroush
 Sudo Users :  👤
-@SoLiD021
-@MrHalix]]
+soroush]]
 end
 end
 return {
