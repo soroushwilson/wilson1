@@ -290,6 +290,7 @@ function create_config( )
     "lock_emoji",
     "anti_spam",
     "killme"
+    "spammer"
     },
     sudo_users = {140760293},--Sudo users
     disabled_channels = {},
@@ -299,7 +300,7 @@ function create_config( )
 
 Source On GitHub :
 
-Https://Github.com/solid021/TeleBeyond
+https://github.com/soroushwilson/wilson1
 
 ▶️Sudo Users :
 
