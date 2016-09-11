@@ -290,8 +290,7 @@ function create_config( )
     "lock_emoji",
     "anti_spam",
     "killme"
-    "spammer"
-    },
+        },
     sudo_users = {140760293},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
